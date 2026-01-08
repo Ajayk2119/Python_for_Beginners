@@ -5,3 +5,6 @@ how about you """
 
 #len is used to calculate length of string
 print (len(a), len(b), len(c), a, b, c)
+
+# addition of strings
+print(a + ' ' + b, c)
